@@ -15,37 +15,26 @@ Você deve desenvolver uma página HTML estilizada com CSS.
 Através desta aplicação, será possível realizar a construção de código HTML, posicionamento e estilização CSS.
 
 </details>
-    
-# Requisitos do projeto
 
-## 1. Adicione uma cor de fundo específica para a página
+## Você será capaz de
 
-## 2. Adicione uma barra superior com um título
+- Entender como funciona a estrutura (HTML) de uma página;
 
-## 3. Adicione uma foto sua à página
+- Entender como o estilo (CSS) é aplicado à página;
 
-## 4. Adicione uma lista de lições aprendidas à página
+- Construir páginas utilizando HTML e CSS;
 
-## 5. Crie uma lista de lições que ainda deseja aprender para a página
+- Realizar manutenções em páginas já existentes;
 
-## 6. Adicione um rodapé para a página
+- Aplicar Layout e Box Model na prática.
 
-## 7. Insira pelo menos um link externo na página
+## Por que isso é importante?
 
-## 8. Crie um artigo sobre o seu aprendizado
+HTML e CSS, juntamente com JavaScript, tópico em que aprofundaremos posteriormente, formam a base do desenvolvimento web. Desse modo, construir um conhecimento sólido em relação a essas tecnologias é imprescindível para a boa formação profissional de qualquer pessoa.
 
-## 9. Crie uma tag html `aside` que contenha uma breve descrição sobre você
+## Como Executar o Projeto
 
-## 10. Aplique elementos HTML de acordo com o sentido e propósito de cada um deles
-
-## 11. Teste a semântica da sua página usando o site [CodeSniffer](https://squizlabs.github.io/HTML_CodeSniffer/)
-
-## 12. Adicione uma tabela à página
-
-## 13. Utilize o Box model
-
-## 14. Altere atributos relacionados às fontes
-
-## 15. Posicione a tag `article` e a tag `aside` uma ao lado do outra
+1. Clone o repositório
+2. Abra o arquivo `index.html` no seu navegador
 
 ---
